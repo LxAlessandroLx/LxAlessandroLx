@@ -24,6 +24,13 @@ Hi there, I'm an Italian guy who programs... nothing more.
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
+<h1 align="center">Stats</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LxAlessandroLx&theme=github_dark" />
+  <br></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxAlessandroLx&theme=github_dark" />
+</div>
+
 ---
 
 If you want to contact me, feel free to do so
