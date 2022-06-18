@@ -38,3 +38,5 @@ If you want to contact me, feel free to do so
 - Telegram : [@LxAlessandroLx](https://t.me/LxAlessandroLx)
 - E-Mail : [chiozzalessandro@gmail.com](mailto:chiozzalessandro@gmail.com)
 - Discord (I never answer) : [LxAlessandroLx#8767](https://discord.com/channels/@me)
+
+P.S: Archived repositories are shitty
