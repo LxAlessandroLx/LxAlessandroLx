@@ -35,8 +35,8 @@ Hi there, I'm an Italian guy who programs... nothing more.
 
 If you want to contact me, feel free to do so
 
-- Telegram : [@LxAlessandroLx](https://t.me/LxAlessandroLx)
-- E-Mail : [chiozzalessandro@gmail.com](mailto:chiozzalessandro@gmail.com)
-- Discord (I never answer) : [LxAlessandroLx#8767](https://discord.com/channels/@me)
+<a href="https://t.me/LxAlessandroLx"><img src="https://img.shields.io/badge/Telegram-contact%20me-03a9fc?style=flat&logo=telegram" /></a>
+<a href="mailto:chiozzalessandro@gmail.com"><img src="https://img.shields.io/badge/Gmail-contact me-e06c75?style=flat&logo=gmail" /></a>
+<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-LxAlessandroLx 8767-3449eb?style=flat&logo=discord" /></a>
 
 P.S: Archived repositories are shitty
